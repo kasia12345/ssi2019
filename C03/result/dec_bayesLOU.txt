@@ -1,0 +1,1380 @@
+///////////////////////////////  FOLD NUMBER 1  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 2  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 3  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 4  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 5  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 6  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 7  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 8  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 9  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 10  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 11  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 12  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 13  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 14  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 15  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 16  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 17  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 18  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 19  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 20  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 21  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 22  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 23  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 24  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 25  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 26  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 27  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 28  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 29  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 30  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 31  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 32  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 33  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 34  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 35  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 36  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 37  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 38  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 39  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 40  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 41  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 42  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 43  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 44  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 45  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 46  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 47  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 48  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 49  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 50  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 51  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 52  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 53  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 54  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 55  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 56  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 57  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 58  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 59  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 60  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 61  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 62  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 63  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 64  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 65  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 66  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 67  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 68  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 69  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 70  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 71  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 72  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 73  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 74  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 75  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 76  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 77  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 78  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 79  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 80  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 81  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 82  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 83  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 84  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 85  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 86  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 87  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 88  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 89  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 90  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 91  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 92  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 93  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 94  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 95  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 96  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 97  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 98  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 99  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 100  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 101  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 102  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 103  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 104  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 105  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 106  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 107  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 108  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 109  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 110  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 111  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 112  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 113  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 114  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 115  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 116  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 117  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 118  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 119  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 120  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 121  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 122  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 123  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 124  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 125  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 126  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 127  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 128  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 129  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 130  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 131  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 132  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 133  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 134  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 135  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 136  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 137  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 138  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 139  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 140  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 141  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 142  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 143  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 144  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 145  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 146  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 147  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 148  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 149  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 150  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 151  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 152  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 153  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 154  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 155  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 156  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 157  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 158  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 159  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 160  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 161  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 162  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 163  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 164  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 165  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 166  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 167  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 168  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 169  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 170  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 171  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 172  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 173  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 174  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 175  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 176  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 177  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 178  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 179  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 180  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 181  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 182  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 183  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 184  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 185  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 186  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 187  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 188  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 189  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 190  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 191  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 192  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 193  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 194  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 195  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 196  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 197  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 198  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 199  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 200  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 201  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 202  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 203  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 204  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 205  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 206  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 207  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 208  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 209  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 210  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 211  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 212  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 213  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 214  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 215  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 216  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 217  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 218  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 219  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 220  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 221  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 222  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 223  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 224  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 225  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 226  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 227  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 228  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 229  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 230  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 231  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 232  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 233  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 234  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 235  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 236  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 237  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 238  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 239  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 240  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 241  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 242  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 243  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 244  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 245  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 246  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 247  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 248  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 249  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 250  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 251  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 252  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 253  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 254  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 255  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 256  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 257  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 258  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 259  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 260  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 261  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 262  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 263  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 264  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 265  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 266  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 267  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 268  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 269  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 270  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 271  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 272  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 273  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 274  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 275  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 276  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 277  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 278  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 279  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 280  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 281  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 282  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 283  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 284  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 285  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 286  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 287  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 288  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 289  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 290  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 291  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 292  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 293  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 294  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 295  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 296  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 297  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 298  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 299  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 300  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 301  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 302  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 303  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 304  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 305  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 306  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 307  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 308  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 309  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 310  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 311  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 312  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 313  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 314  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 315  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 316  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 317  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 318  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 319  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 320  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 321  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 322  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 323  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 324  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 325  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 326  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 327  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 328  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 329  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 330  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 331  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 332  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 333  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 334  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 335  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 336  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 337  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 338  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 339  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 340  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 341  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 342  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 343  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 344  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 345  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 346  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 347  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 348  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 349  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 350  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 351  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 352  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 353  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 354  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 355  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 356  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 357  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 358  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 359  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 360  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 361  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 362  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 363  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 364  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 365  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 366  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 367  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 368  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 369  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 370  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 371  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 372  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 373  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 374  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 375  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 376  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 377  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 378  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 379  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 380  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 381  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 382  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 383  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 384  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 385  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 386  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 387  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 388  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 389  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 390  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 391  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 392  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 393  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 394  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 395  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 396  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 397  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 398  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 399  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 400  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 401  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 402  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 403  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 404  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 405  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 406  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 407  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 408  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 409  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 410  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 411  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 412  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 413  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 414  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 415  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 416  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 417  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 418  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 419  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 420  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 421  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 422  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 423  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 424  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 425  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 426  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 427  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 428  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 429  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 430  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 431  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 432  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 433  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 434  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 435  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 436  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 437  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 438  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 439  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 440  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 441  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 442  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 443  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 444  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 445  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 446  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 447  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 448  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 449  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 450  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 451  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 452  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 453  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 454  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 455  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 456  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 457  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 458  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 459  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 460  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 461  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 462  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 463  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 464  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 465  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 466  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 467  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 468  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 469  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 470  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 471  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 472  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 473  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 474  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 475  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 476  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 477  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 478  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 479  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 480  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 481  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 482  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 483  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 484  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 485  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 486  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 487  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 488  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 489  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 490  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 491  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 492  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 493  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 494  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 495  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 496  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 497  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 498  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 499  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 500  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 501  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 502  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 503  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 504  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 505  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 506  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 507  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 508  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 509  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 510  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 511  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 512  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 513  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 514  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 515  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 516  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 517  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 518  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 519  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 520  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 521  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 522  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 523  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 524  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 525  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 526  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 527  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 528  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 529  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 530  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 531  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 532  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 533  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 534  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 535  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 536  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 537  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 538  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 539  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 540  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 541  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 542  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 543  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 544  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 545  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 546  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 547  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 548  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 549  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 550  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 551  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 552  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 553  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 554  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 555  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 556  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 557  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 558  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 559  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 560  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 561  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 562  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 563  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 564  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 565  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 566  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 567  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 568  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 569  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 570  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 571  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 572  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 573  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 574  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 575  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 576  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 577  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 578  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 579  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 580  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 581  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 582  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 583  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 584  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 585  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 586  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 587  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 588  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 589  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 590  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 591  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 592  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 593  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 594  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 595  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 596  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 597  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 598  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 599  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 600  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 601  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 602  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 603  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 604  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 605  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 606  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 607  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 608  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 609  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 610  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 611  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 612  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 613  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 614  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 615  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 616  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 617  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 618  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 619  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 620  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 621  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 622  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 623  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 624  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 625  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 626  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 627  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 628  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 629  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 630  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 631  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 632  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 633  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 634  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 635  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 636  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 637  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 638  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 639  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 640  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 641  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 642  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 643  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 644  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 645  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 646  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 647  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 648  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 649  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 650  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 651  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 652  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 653  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 654  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 655  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 656  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 657  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 658  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 659  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 660  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 661  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 662  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 663  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 664  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 665  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 666  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 667  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 668  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 669  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 670  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 671  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 672  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 673  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 674  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 675  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 676  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 677  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 678  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 679  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 680  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 681  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 682  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 683  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 684  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 685  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 686  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 687  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 0)
+///////////////////////////////  FOLD NUMBER 688  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 689  ///////////////////////////////
+Param c==0<Param C==1 dla obiektu x1 ta decyzja jest zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)
+///////////////////////////////  FOLD NUMBER 690  ///////////////////////////////
+Param c==0>Param C==1 dla obiektu x1 ta decyzja jest nie zgodna z ukryta decyzja eksperta (decyzja eksperta == 1)

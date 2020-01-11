@@ -1,0 +1,2 @@
+Global accuracy = 0.8202898550724638
+BalancedAccuracy = 0.4101449275362319
